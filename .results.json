@@ -1,0 +1,194 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 8,
+    "passes": 0,
+    "pending": 0,
+    "failures": 8,
+    "start": "2025-05-08T01:19:18.275Z",
+    "end": "2025-05-08T01:19:18.823Z",
+    "duration": 548
+  },
+  "tests": [
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:27:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js tot_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:32:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:40:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js tot_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:45:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:53:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js avg_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:58:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js avg_temperature_in_celsius is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:66:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:71:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js tot_temperature_in_fahrenheit is a floating number",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:27:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js tot_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:32:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js tot_temperature_in_celsius is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:40:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js tot_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: tot_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: tot_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:45:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:53:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js avg_temperature_in_fahrenheit is accurate with a tolerance of 0.2 degrees",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_fahrenheit] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_fahrenheit] to be a number\n    at Context.<anonymous> (test\\indexTest.js:58:57)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is a floating number",
+      "fullTitle": "index.js avg_temperature_in_celsius is a floating number",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:66:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    },
+    {
+      "title": "is accurate with a tolerance of 0.2 degrees",
+      "fullTitle": "index.js avg_temperature_in_celsius is accurate with a tolerance of 0.2 degrees",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "message": "expected [Function: avg_temperature_in_celsius] to be a number",
+        "showDiff": false,
+        "stack": "AssertionError: expected [Function: avg_temperature_in_celsius] to be a number\n    at Context.<anonymous> (test\\indexTest.js:71:54)\n    at process.processImmediate (node:internal/timers:505:21)"
+      }
+    }
+  ],
+  "passes": []
+}

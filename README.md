@@ -82,3 +82,5 @@ that matter, will still have CONTRIBUTING.md, LICENSE.md, and README.md files.)
 2. Create a commit by executing `git commit -m "Your commit message"`
 3. Push your commits to GitHub by executing `git push origin main` or `git push origin master` depending on the name of your branch (use `git branch` to check on which branch you are).
 4. Go to CodeGrade and link the repository to your assignment to submit your work.
+
+Updated by LucidDeveloper, aka Lucid <Gianni M. Javier>
